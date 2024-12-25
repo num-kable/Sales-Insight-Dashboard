@@ -10,7 +10,7 @@ Impact
 Streamlined Reporting: Simplified complex data into intuitive visuals for faster comprehension.
 Empowered Decision-Making: Delivered actionable insights for strategic sales planning and optimization.
 
-# Tools & Techniques
+## Tools & Techniques
 Visualization: Tableau for interactive and user-friendly dashboards.
 Data Processing: Leveraged extracts and blending to integrate and preprocess data efficiently.
 Data Sources: Connected multiple datasets for a comprehensive analysis.
