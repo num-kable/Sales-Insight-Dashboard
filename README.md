@@ -5,10 +5,7 @@ This project showcases an interactive Tableau dashboard built to analyze sales p
 KPI Tracking: Monitors key performance indicators to assess sales performance in real time.
 Trend Analysis: Identifies patterns and trends to predict future sales opportunities.
 Geographical Insights: Offers region-specific insights for targeted sales strategies.
-Data Integration: Combines data from multiple sources using advanced blending techniques to create a unified view.
-Impact
-Streamlined Reporting: Simplified complex data into intuitive visuals for faster comprehension.
-Empowered Decision-Making: Delivered actionable insights for strategic sales planning and optimization.
+Data Integration: Combines data from multiple sources using advanced blending techniques to create a unified view
 
 ## Tools & Techniques
 Visualization: Tableau for interactive and user-friendly dashboards.
