@@ -13,7 +13,9 @@ Data Processing: Leveraged extracts and blending to integrate and preprocess dat
 Data Sources: Connected multiple datasets for a comprehensive analysis.
 
 ## Screenshots
+### Sales Insight
 ![Screenshot 2024-11-30 173651](https://github.com/user-attachments/assets/67be00df-c0a4-4e21-a9db-bc4d4eeba525)
+### Profit Insight
 ![Screenshot 2024-12-07 160658](https://github.com/user-attachments/assets/999a8077-f66a-4a1e-8873-e4f749e7c535)
 
 
