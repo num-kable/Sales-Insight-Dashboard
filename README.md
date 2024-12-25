@@ -1,5 +1,5 @@
 # Sales Performance Analysis Using Tableau
-###https://public.tableau.com/views/7th_17317606101980/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+### https://public.tableau.com/views/7th_17317606101980/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 This project showcases an interactive Tableau dashboard built to analyze sales performance. The dashboard tracks key performance indicators (KPIs), uncovers trends, and delivers actionable geographical insights. By leveraging data blending and extracts, the solution streamlined reporting processes and empowered strategic decision-making.
 
 ## Key Features
